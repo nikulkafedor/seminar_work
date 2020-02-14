@@ -1,0 +1,6 @@
+enum Types {
+BIRDS,
+FISH,
+INSECT,
+MAMMALS
+}
